@@ -11,3 +11,8 @@ We do not require any personal information to install or use the extension.
 If you have any questions or concerns about our privacy policy, please contact us at aslamanver@outlook.com
 
 Thank you for using our chrome extension.
+
+### Screenshots
+
+[![](demo/before.jpg)](demo/before.jpg)
+[![](demo/after.jpg)](demo/after.jpg)
