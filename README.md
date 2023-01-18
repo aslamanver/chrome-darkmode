@@ -8,6 +8,6 @@ We do not track or collect any browsing or search history, or any other data abo
 
 We do not require any personal information to install or use the extension.
 
-If you have any questions or concerns about our privacy policy, please contact us at [email or contact information].
+If you have any questions or concerns about our privacy policy, please contact us at aslamanver@outlook.com
 
 Thank you for using our chrome extension.
