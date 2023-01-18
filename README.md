@@ -15,4 +15,5 @@ Thank you for using our chrome extension.
 ### Screenshots
 
 [![](demo/before.jpg)](demo/before.jpg)
+<hr>
 [![](demo/after.jpg)](demo/after.jpg)
