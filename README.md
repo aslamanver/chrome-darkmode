@@ -1,4 +1,4 @@
-### Dark Mode - Chrome Extension 
+### [Dark Mode - Chrome Extension](https://chrome.google.com/webstore/detail/cdhmcgcfgkfppgmgbifcnjecgielikkk/)
 
 ### Privacy Policy
 
